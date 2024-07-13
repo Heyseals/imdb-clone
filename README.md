@@ -48,7 +48,7 @@ Make sure you have the following installed:
 
 ## Directory Structure
 
-```plaintext
+
 imdb-clone/
 │
 ├── public/
