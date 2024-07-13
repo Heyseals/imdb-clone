@@ -46,28 +46,6 @@ Make sure you have the following installed:
     -  To run the application in development mode, use the following command:
         npm run dev
 
-## Directory Structure
-
-
-imdb-clone/
-│
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Banner.jsx
-│   │   ├── MovieCard.jsx
-│   │   ├── Movies.jsx
-│   │   ├── Navbar.jsx
-│   │   ├── Pagination.jsx
-│   │   └── Watchlist.jsx
-│   ├── App.js
-│   ├── index.js
-│   └── styles.css
-├── .gitignore
-├── package.json
-├── README.md
-└── tailwind.config.js
-
 
 
 # Contributing:
@@ -89,4 +67,27 @@ imdb-clone/
 ![Screenshot 2024-07-13 151110](https://github.com/user-attachments/assets/cd63e0ac-cbab-4800-bb5d-d6c4b20a3253)
 ![Screenshot 2024-07-13 151125](https://github.com/user-attachments/assets/f3db71f7-eaf0-4df5-9d83-33099dafd63b)
 ![Screenshot 2024-07-13 151206](https://github.com/user-attachments/assets/28249be1-183e-4ac0-b357-b374fc3caf16)
+
+## Directory Structure
+
+```imdb-clone/
+│
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Banner.jsx
+│   │   ├── MovieCard.jsx
+│   │   ├── Movies.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Pagination.jsx
+│   │   └── Watchlist.jsx
+│   ├── App.js
+│   ├── index.js
+│   └── styles.css
+├── .gitignore
+├── package.json
+├── README.md
+└── tailwind.config.js
+
+
 
