@@ -46,7 +46,9 @@ Make sure you have the following installed:
     -  To run the application in development mode, use the following command:
         npm run dev
 
-# Project Structure
+## Directory Structure
+
+```plaintext
 imdb-clone/
 │
 ├── public/
