@@ -39,12 +39,12 @@ Make sure you have the following installed:
    ```sh
    git clone https://github.com/sau1606/imdb-clone.git
 2. Navigate to the project directory:
-  cd imdb-clone
+- cd imdb-clone
 3. Install the dependencies:
-   npm install
+- npm install
 4. Running the Application
-    -  To run the application in development mode, use the following command:
-        npm run dev
+- To run the application in development mode, use the following command:
+-- npm run dev
 
 
 
