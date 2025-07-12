@@ -7,8 +7,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refres
 
-
 # Demo
+
 https://imdb-clone-sau1606.netlify.app/
 
 # IMDB Clone
@@ -38,31 +38,38 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```sh
    git clone https://github.com/sau1606/imdb-clone.git
+   ```
 2. Navigate to the project directory:
+
 - cd imdb-clone
+
 3. Install the dependencies:
+
 - npm install
+
 4. Running the Application
+
 - To run the application in development mode, use the following command:
--- npm run dev
-
-
+  -- npm run dev
 
 # Contributing:
-  ## Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
-  - Fork the repository
-  - Create a new branch (git checkout -b feature-branch)
-  - Commit your changes (git commit -m 'Add new feature')
-  - Push to the branch (git push origin feature-branch)
-  - Open a pull request
+
+## Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
+
+- Fork the repository
+- Create a new branch (git checkout -b feature-branch)
+- Commit your changes (git commit -m 'Add new feature')
+- Push to the branch (git push origin feature-branch)
+- Open a pull request
 
 # Acknowledgements
+
 - TMDB API
 - React.js
 - Tailwind CSS
 
-
 # Gallery
+
 ![Screenshot 2024-07-13 151026](https://github.com/user-attachments/assets/83038a8c-602e-4d51-aa7e-ecbd31fd93f9)
 ![Screenshot 2024-07-13 151110](https://github.com/user-attachments/assets/cd63e0ac-cbab-4800-bb5d-d6c4b20a3253)
 ![Screenshot 2024-07-13 151125](https://github.com/user-attachments/assets/f3db71f7-eaf0-4df5-9d83-33099dafd63b)
@@ -91,3 +98,4 @@ Make sure you have the following installed:
 
 
 
+```
